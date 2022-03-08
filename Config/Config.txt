@@ -1,0 +1,6 @@
+Server:
+stampy.db.elephantsql.com
+Alias:
+yubdrxpi
+Port:
+5432
